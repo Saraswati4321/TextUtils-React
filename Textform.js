@@ -54,10 +54,10 @@ export default function Textform(props) {
  ></textarea>
 </div>
 <button className="btn btn-primary mx-2 my-2"  onClick={handleloClick}>Convert To Lowercase</button>
-<button className="btn btn-primary mx-2 "  onClick={handleupClick}>Convert To Uppercase</button>
-<button className="btn btn-primary mx-2"  onClick={handleClearClick}>Clear Text</button>
-<button className="btn btn-primary mx-2"  onClick={handleReverseClick}>Reverse Text</button>
-<button className="btn btn-primary mx-2"  onClick={handleCopy}>Copy Text</button>
+<button className="btn btn-primary mx-2 my-1"  onClick={handleupClick}>Convert To Uppercase</button>
+<button className="btn btn-primary mx-2 my-1"  onClick={handleClearClick}>Clear Text</button>
+<button className="btn btn-primary mx-2  my-1"  onClick={handleReverseClick}>Reverse Text</button>
+<button className="btn btn-primary mx-2  my-1"  onClick={handleCopy}>Copy Text</button>
     </div>
     <div className="container my-3" style={{color:props.mode==='light'?'black':'white'}}>
         <h2>Your Text Summary</h2>
