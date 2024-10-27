@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtils-React/static/css/main.dc4d6ff2.css",
-    "main.js": "/TextUtils-React/static/js/main.671bb5c5.js",
-    "static/js/453.64512fd7.chunk.js": "/TextUtils-React/static/js/453.64512fd7.chunk.js",
-    "index.html": "/TextUtils-React/index.html",
-    "main.dc4d6ff2.css.map": "/TextUtils-React/static/css/main.dc4d6ff2.css.map",
-    "main.671bb5c5.js.map": "/TextUtils-React/static/js/main.671bb5c5.js.map",
-    "453.64512fd7.chunk.js.map": "/TextUtils-React/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/Saraswati4321/TextEditor/static/css/main.2890232c.css",
+    "main.js": "/Saraswati4321/TextEditor/static/js/main.699cffcc.js",
+    "static/js/453.64512fd7.chunk.js": "/Saraswati4321/TextEditor/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Saraswati4321/TextEditor/index.html",
+    "main.2890232c.css.map": "/Saraswati4321/TextEditor/static/css/main.2890232c.css.map",
+    "main.699cffcc.js.map": "/Saraswati4321/TextEditor/static/js/main.699cffcc.js.map",
+    "453.64512fd7.chunk.js.map": "/Saraswati4321/TextEditor/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.671bb5c5.js"
+    "static/css/main.2890232c.css",
+    "static/js/main.699cffcc.js"
   ]
 }
